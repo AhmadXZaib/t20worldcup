@@ -1,0 +1,39 @@
+{
+    "University": "FATA University",
+    "Department": "Computer Science",
+    "Addres": "Dara Adam Khel",
+    "item": [
+        {
+            "Name": "Ahmad Zaib",
+            "FName": "Jehan Zaib",
+            "Phone": 3409421345,
+            "Age": 21,
+            "RegNo": "2021-FU.Cs-14",
+            "CGPA": 3.9
+        },
+        {
+            "Name": "Asim Khan",
+            "FName": "Asim's Father",
+            "Phone": 342934,
+            "Age": 23,
+            "RegNo": "2020-FU.Cs-23",
+            "CGPA": 3.9
+        },
+        {
+            "Name": "Ubaid Ullah",
+            "FName": "Ghulam Hazrat",
+            "Phone": 3409421345,
+            "Age": 23,
+            "RegNo": "2020-FU.Cs-02",
+            "CGPA": 3.4
+        },
+        {
+            "Name": "Afaq Zahir",
+            "FName": "Zahir Khanzada",
+            "Phone": 3409421345,
+            "Age": 24,
+            "RegNo": "2020-FU.Cs-05",
+            "CGPA": 3.6
+        }
+    ]
+}
